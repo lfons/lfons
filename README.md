@@ -3,7 +3,7 @@
 - 💼 &nbsp;I’m currently working at Typeform
 - 👯 &nbsp;I’m looking to collaborate on any cool projects
 - ⚡ &nbsp;Fun fact: I love raquet sports 🏓🎾 and playing music 🎺🎹🎸
-- ✨ &nbsp;Entrepreneurship: Check my micro SaaS for teams in different timezones using Slack <a target="_blank" href="https:www.teamtimezone.com">here</a>.
+- ✨ &nbsp;Entrepreneurship: Check my micro SaaS for teams in different timezones using Slack <a target="_blank" href="https://www.teamtimezone.com">here</a>.
 
 <br />
 
